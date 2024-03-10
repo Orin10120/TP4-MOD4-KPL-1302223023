@@ -1,0 +1,7 @@
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\bin\Debug\Modul4_1302223023.exe.config
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\bin\Debug\Modul4_1302223023.exe
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\bin\Debug\Modul4_1302223023.pdb
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\obj\Debug\Modul4_1302223023.csproj.AssemblyReference.cache
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\obj\Debug\Modul4_1302223023.csproj.CoreCompileInputs.cache
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\obj\Debug\Modul4_1302223023.exe
+C:\Users\rinda\OneDrive\Documents\C#\Modul4_1302223023\Modul4_1302223023\obj\Debug\Modul4_1302223023.pdb
